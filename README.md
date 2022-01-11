@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Miyuki1710
+- 👀 I’m interested in gaming, design, coding and programming softwares.
+- 🌱 I’m currently learning java and java script.
